@@ -7,3 +7,5 @@ scikit-learn
 pytest
 matplotlib
 seaborn
+xgboost
+joblib
